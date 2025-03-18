@@ -1,0 +1,21 @@
+Meeting Summary
+
+Performed analysis on two datasets:
+a) Comparison on full extent, without considering the year (Slide 2).
+b) Year-wise comparison on full extent (Slide 3).
+c) Year and Tile-wise comparison (Slide 6).
+
+Calculated the number and area of common polygons within each tile and plotted the top 5 in both datasets (Slide 4).
+
+Proposed the top 3 tiles for further analysis (Slide 5) – confirmation required.
+
+Suggestions from Marc:
+- Include year/tile-wise dataset comparison in percentage.
+- Currently, the comparison is based only on area—adding a comparison based on the count of polygons would provide more insights.
+- Investigate the meaning of polygons that are not common in either dataset, especially for the proposed tiles. I am planning to do this for proposed tiles.
+- Consider fixing a recurring meeting slot every Monday at 11:30.
+
+Upcoming Plan:
+- Implement Marc's suggestions.
+- Download Sentinel-1/Sentinel-2 images for one of the proposed tiles and perform the necessary preprocessing. Verify the preprocessing steps for both Radar (S1) and MSI (S2) with all supervisors/collaborators before proceeding with full data acquisition.
+- Read literature on DETER and ICV data. (Considering emailing Damien to check for relevant papers or materials on data preparation).
